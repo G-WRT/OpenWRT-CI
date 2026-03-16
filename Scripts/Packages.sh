@@ -53,6 +53,9 @@ UPDATE_PACKAGE "kucat-config" "sirpdboy/luci-app-kucat-config" "master"
 
 UPDATE_PACKAGE "luci-app-bandix" "timsaya/luci-app-bandix" "main"
 UPDATE_PACKAGE "openwrt-bandix" "timsaya/openwrt-bandix" "main"
+UPDATE_PACKAGE "openclaw" "10000ge10000/luci-app-openclaw" "main"
+UPDATE_PACKAGE "luci-app-picoclaw" "LIKE2000-ART/luci-app-picoclaw" "main"
+UPDATE_PACKAGE "picoclaw" "sipeed/picoclaw" "main"
 
 UPDATE_PACKAGE "homeproxy" "VIKINGYFY/homeproxy" "main"
 UPDATE_PACKAGE "momo" "nikkinikki-org/OpenWrt-momo" "main"
