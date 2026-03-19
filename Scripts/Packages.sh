@@ -55,6 +55,7 @@ UPDATE_PACKAGE "openwrt-bandix" "timsaya/openwrt-bandix" "main"
 UPDATE_PACKAGE "openclaw" "10000ge10000/luci-app-openclaw" "main"
 UPDATE_PACKAGE "luci-app-picoclaw" "LIKE2000-ART/luci-app-picoclaw" "main"
 UPDATE_PACKAGE "picoclaw" "sipeed/picoclaw" "main"
+UPDATE_PACKAGE "lucky" "sirpdboy/luci-app-lucky" "main"
 
 UPDATE_PACKAGE "homeproxy" "VIKINGYFY/homeproxy" "main"
 UPDATE_PACKAGE "momo" "nikkinikki-org/OpenWrt-momo" "main"
