@@ -65,6 +65,7 @@ UPDATE_PACKAGE "openwrt-bandix" "timsaya/openwrt-bandix" "main"
 UPDATE_PACKAGE "lucky" "sirpdboy/luci-app-lucky" "main"
 UPDATE_PACKAGE "luci-app-picoclaw" "GennKann/luci-app-picoclaw" "master"
 UPDATE_PACKAGE "picoclaw" "sipeed/picoclaw" "main"
+UPDATE_PACKAGE "openclaw" "10000ge10000/luci-app-openclaw" "main"
 
 UPDATE_PACKAGE "luci-app-tailscale" "asvow/luci-app-tailscale" "main"
 
