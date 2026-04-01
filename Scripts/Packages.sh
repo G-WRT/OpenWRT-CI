@@ -63,7 +63,7 @@ UPDATE_PACKAGE "passwall2" "Openwrt-Passwall/openwrt-passwall2" "main" "pkg"
 UPDATE_PACKAGE "luci-app-bandix" "timsaya/luci-app-bandix" "main"
 UPDATE_PACKAGE "openwrt-bandix" "timsaya/openwrt-bandix" "main"
 UPDATE_PACKAGE "lucky" "sirpdboy/luci-app-lucky" "main"
-UPDATE_PACKAGE "luci-app-picoclaw" "GennKann/luci-app-picoclaw" "master"
+UPDATE_PACKAGE "luci-app-picoclaw" "G-WRT/luci-app-picoclaw" "main"
 UPDATE_PACKAGE "picoclaw" "sipeed/picoclaw" "main"
 UPDATE_PACKAGE "openclaw" "10000ge10000/luci-app-openclaw" "main"
 
